@@ -19,7 +19,7 @@
             "station": "San Pablo"
         },
         "next": {
-            "distance_in_meters": 1090,
+            "distance_in_meters": 1030,
             "station": "Pajaritos"
         },
         "transfer_to": null
@@ -29,11 +29,11 @@
         "address": "General Bonilla con Santa Marta , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 1090,
+            "distance_in_meters": 1030,
             "station": "Neptuno"
         },
         "next": {
-            "distance_in_meters": 960,
+            "distance_in_meters": 860,
             "station": "Las Rejas"
         },
         "transfer_to": null
@@ -43,7 +43,7 @@
         "address": "Alameda con Las Rejas , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 960,
+            "distance_in_meters": 860,
             "station": "Pajaritos"
         },
         "next": {
@@ -61,7 +61,7 @@
             "station": "Las Rejas"
         },
         "next": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 680,
             "station": "San Alberto Hurtado"
         },
         "transfer_to": null
@@ -71,11 +71,11 @@
         "address": "Alameda con Toro Mazote , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 680,
             "station": "Ecuador"
         },
         "next": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 540,
             "station": "Universidad de Santiago"
         },
         "transfer_to": null
@@ -85,7 +85,7 @@
         "address": "Alameda con Jotabeche , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 540,
             "station": "San Alberto Hurtado"
         },
         "next": {
@@ -103,7 +103,7 @@
             "station": "Universidad de Santiago"
         },
         "next": {
-            "distance_in_meters": 590,
+            "distance_in_meters": 630,
             "station": "Uni\u00f3n Latinoamericana"
         },
         "transfer_to": null
@@ -113,11 +113,11 @@
         "address": "Alameda con Abate Molina , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 590,
+            "distance_in_meters": 630,
             "station": "Estaci\u00f3n Central"
         },
         "next": {
-            "distance_in_meters": 520,
+            "distance_in_meters": 560,
             "station": "Rep\u00fablica"
         },
         "transfer_to": null
@@ -127,11 +127,11 @@
         "address": "Alameda con Ricardo Cumming , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 520,
+            "distance_in_meters": 560,
             "station": "Uni\u00f3n Latinoamericana"
         },
         "next": {
-            "distance_in_meters": 650,
+            "distance_in_meters": 590,
             "station": "Los H\u00e9roes"
         },
         "transfer_to": null
@@ -141,11 +141,11 @@
         "address": "Alameda con Autopista Central , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 650,
+            "distance_in_meters": 590,
             "station": "Rep\u00fablica"
         },
         "next": {
-            "distance_in_meters": 480,
+            "distance_in_meters": 460,
             "station": "La Moneda"
         },
         "transfer_to": "L2"
@@ -155,11 +155,11 @@
         "address": "Alameda con Amun\u00e1tegui , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 480,
+            "distance_in_meters": 460,
             "station": "Los H\u00e9roes"
         },
         "next": {
-            "distance_in_meters": 500,
+            "distance_in_meters": 400,
             "station": "Universidad de Chile"
         },
         "transfer_to": null
@@ -169,11 +169,11 @@
         "address": "Alameda con Ahumada , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 500,
+            "distance_in_meters": 400,
             "station": "La Moneda"
         },
         "next": {
-            "distance_in_meters": 510,
+            "distance_in_meters": 480,
             "station": "Santa Luc\u00eda"
         },
         "transfer_to": "L3"
@@ -183,11 +183,11 @@
         "address": "Alameda con Miraflores , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 510,
+            "distance_in_meters": 480,
             "station": "Universidad de Chile"
         },
         "next": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 530,
             "station": "Universidad Cat\u00f3lica"
         },
         "transfer_to": null
@@ -197,11 +197,11 @@
         "address": "Alameda con Portugal , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 530,
             "station": "Santa Luc\u00eda"
         },
         "next": {
-            "distance_in_meters": 620,
+            "distance_in_meters": 660,
             "station": "Baquedano"
         },
         "transfer_to": null
@@ -211,11 +211,11 @@
         "address": "Providencia con Vicu\u00f1a Mackenna , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 620,
+            "distance_in_meters": 660,
             "station": "Universidad Cat\u00f3lica"
         },
         "next": {
-            "distance_in_meters": 890,
+            "distance_in_meters": 900,
             "station": "Salvador"
         },
         "transfer_to": "L5"
@@ -225,7 +225,7 @@
         "address": "Providencia con Salvador , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 890,
+            "distance_in_meters": 900,
             "station": "Baquedano"
         },
         "next": {
@@ -257,7 +257,7 @@
             "station": "Manuel Montt"
         },
         "next": {
-            "distance_in_meters": 600,
+            "distance_in_meters": 550,
             "station": "Los Leones"
         },
         "transfer_to": null
@@ -267,7 +267,7 @@
         "address": "Nueva Providencia con Ricardo Lyon , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 480,
+            "distance_in_meters": 550,
             "station": "Pedro de Valdivia"
         },
         "next": {
@@ -285,7 +285,7 @@
             "station": "Los Leones"
         },
         "next": {
-            "distance_in_meters": 720,
+            "distance_in_meters": 620,
             "station": "El Golf"
         },
         "transfer_to": "L4"
@@ -295,11 +295,11 @@
         "address": "Apoquindo con San Crescente , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 720,
+            "distance_in_meters": 620,
             "station": "Tobalaba"
         },
         "next": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 630,
             "station": "Alc\u00e1ntara"
         },
         "transfer_to": null
@@ -309,11 +309,11 @@
         "address": "Apoquindo con Alc\u00e1ntara , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 580,
+            "distance_in_meters": 630,
             "station": "El Golf"
         },
         "next": {
-            "distance_in_meters": 570,
+            "distance_in_meters": 600,
             "station": "Escuela Militar"
         },
         "transfer_to": null
@@ -323,11 +323,11 @@
         "address": "Apoquindo con Am\u00e9rico Vespucio , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 570,
+            "distance_in_meters": 600,
             "station": "Alc\u00e1ntara"
         },
         "next": {
-            "distance_in_meters": 1600,
+            "distance_in_meters": 1500,
             "station": "Manquehue"
         },
         "transfer_to": null
@@ -337,11 +337,11 @@
         "address": "Apoquindo con Rosario Norte , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 1600,
+            "distance_in_meters": 1500,
             "station": "Escuela Militar"
         },
         "next": {
-            "distance_in_meters": 1130,
+            "distance_in_meters": 1160,
             "station": "Hernando de Magallanes"
         },
         "transfer_to": null
@@ -351,7 +351,7 @@
         "address": "Apoquindo con Hdo. de Magallanes , Santiago de Chile",
         "line": "L1",
         "previous": {
-            "distance_in_meters": 1130,
+            "distance_in_meters": 1160,
             "station": "Manquehue"
         },
         "next": {
@@ -377,7 +377,7 @@
         "line": "L2",
         "previous": null,
         "next": {
-            "distance_in_meters": 1410,
+            "distance_in_meters": 1500,
             "station": "Zapadores"
         },
         "transfer_to": null
@@ -387,11 +387,11 @@
         "address": "Recoleta con Zapadores , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 1410,
+            "distance_in_meters": 1500,
             "station": "Vespucio Norte"
         },
         "next": {
-            "distance_in_meters": 670,
+            "distance_in_meters": 660,
             "station": "Dorsal"
         },
         "transfer_to": null
@@ -401,11 +401,11 @@
         "address": "Recoleta con Dorsal , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 670,
+            "distance_in_meters": 660,
             "station": "Zapadores"
         },
         "next": {
-            "distance_in_meters": 1640,
+            "distance_in_meters": 1440,
             "station": "Einstein"
         },
         "transfer_to": null
@@ -415,7 +415,7 @@
         "address": "Recoleta con Einstein , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 1640,
+            "distance_in_meters": 1440,
             "station": "Dorsal"
         },
         "next": {
@@ -426,14 +426,14 @@
     },
     {
         "station": "Cementerios",
-        "address": "Recoleta con Arzobispo Valdivieso6075 , Santiago de Chile",
+        "address": "Recoleta con Arzobispo Valdivieso , Santiago de Chile",
         "line": "L2",
         "previous": {
             "distance_in_meters": 920,
             "station": "Einstein"
         },
         "next": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 970,
             "station": "Cerro Blanco"
         },
         "transfer_to": null
@@ -443,7 +443,7 @@
         "address": "Recoleta con Santos Dumont , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 970,
             "station": "Cementerios"
         },
         "next": {
@@ -461,7 +461,7 @@
             "station": "Cerro Blanco"
         },
         "next": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 760,
             "station": "Puente Cal y Canto"
         },
         "transfer_to": null
@@ -471,11 +471,11 @@
         "address": "General Mackenna con Puente , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 760,
             "station": "Patronato"
         },
         "next": {
-            "distance_in_meters": 1310,
+            "distance_in_meters": 1290,
             "station": "Santa Ana"
         },
         "transfer_to": "L3"
@@ -485,7 +485,7 @@
         "address": "Autopista Central con Catedral , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 1310,
+            "distance_in_meters": 1290,
             "station": "Puente Cal y Canto"
         },
         "next": {
@@ -503,7 +503,7 @@
             "station": "Santa Ana"
         },
         "next": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 820,
             "station": "Toesca"
         },
         "transfer_to": "L1"
@@ -513,11 +513,11 @@
         "address": "Autopista Central con Toesca , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 780,
+            "distance_in_meters": 820,
             "station": "Los H\u00e9roes"
         },
         "next": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 960,
             "station": "Parque O'Higgins"
         },
         "transfer_to": null
@@ -527,11 +527,11 @@
         "address": "Autopista Central con M. A. Matta , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 960,
             "station": "Toesca"
         },
         "next": {
-            "distance_in_meters": 890,
+            "distance_in_meters": 950,
             "station": "Rondizzoni"
         },
         "transfer_to": null
@@ -541,11 +541,11 @@
         "address": "Autopista Central con Rondizzoni , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 890,
+            "distance_in_meters": 950,
             "station": "Parque O'Higgins"
         },
         "next": {
-            "distance_in_meters": 980,
+            "distance_in_meters": 1040,
             "station": "Franklin"
         },
         "transfer_to": null
@@ -555,11 +555,11 @@
         "address": "Placer con Franklin , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 980,
+            "distance_in_meters": 1040,
             "station": "Rondizzoni"
         },
         "next": {
-            "distance_in_meters": 840,
+            "distance_in_meters": 750,
             "station": "El Llano"
         },
         "transfer_to": "L6"
@@ -569,11 +569,11 @@
         "address": "Gran Avenida con J. J. Vallejos , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 840,
+            "distance_in_meters": 750,
             "station": "Franklin"
         },
         "next": {
-            "distance_in_meters": 690,
+            "distance_in_meters": 740,
             "station": "San Miguel"
         },
         "transfer_to": null
@@ -583,25 +583,25 @@
         "address": "Gran Avenida con Arc\u00e1ngel , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 690,
+            "distance_in_meters": 740,
             "station": "El Llano"
         },
         "next": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 850,
             "station": "Lo Vial"
         },
         "transfer_to": null
     },
     {
         "station": "Lo Vial",
-        "address": "Gran Avenida con Blanco Viel9544 , Santiago de Chile",
+        "address": "Gran Avenida con Blanco Viel , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 850,
             "station": "San Miguel"
         },
         "next": {
-            "distance_in_meters": 710,
+            "distance_in_meters": 640,
             "station": "Departamental"
         },
         "transfer_to": null
@@ -611,11 +611,11 @@
         "address": "Gran Avenida con Carlos Edwards , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 710,
+            "distance_in_meters": 640,
             "station": "Lo Vial"
         },
         "next": {
-            "distance_in_meters": 790,
+            "distance_in_meters": 770,
             "station": "Ciudad del Ni\u00f1o"
         },
         "transfer_to": null
@@ -625,11 +625,11 @@
         "address": "Gran Avenida con Sexta Avenida , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 790,
+            "distance_in_meters": 770,
             "station": "Departamental"
         },
         "next": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 880,
             "station": "Lo Ovalle"
         },
         "transfer_to": null
@@ -639,25 +639,25 @@
         "address": "Gran Avenida con Jos\u00e9 Ureta , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 880,
             "station": "Ciudad del Ni\u00f1o"
         },
         "next": {
-            "distance_in_meters": 1000,
+            "distance_in_meters": 980,
             "station": "El Parr\u00f3n"
         },
         "transfer_to": null
     },
     {
         "station": "El Parr\u00f3n",
-        "address": "Gran Avenida con El Parr\u00f3n9543 , Santiago de Chile",
+        "address": "Gran Avenida con El Parr\u00f3n , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 1000,
+            "distance_in_meters": 980,
             "station": "Lo Ovalle"
         },
         "next": {
-            "distance_in_meters": 1170,
+            "distance_in_meters": 1200,
             "station": "La Cisterna"
         },
         "transfer_to": null
@@ -667,25 +667,352 @@
         "address": "Gran Avenida con Am\u00e9rico Vespucio , Santiago de Chile",
         "line": "L2",
         "previous": {
-            "distance_in_meters": 1170,
+            "distance_in_meters": 1200,
             "station": "El Parr\u00f3n"
         },
         "next": {
-            "distance_in_meters": 972,
-            "station": "RiquelmeLAvenida Los Morros con Calle Riquelme"
+            "distance_in_meters": 970,
+            "station": "Riquelme"
         },
-        "transfer_to": " 972 m "
+        "transfer_to": "L4A"
     },
     {
-        "station": "Plaza de Quilicura2022Av. Manuel Antonio Matta con Av. Libertador Bernardo O\u00b4Higgins",
-        "address": "0 m , Santiago de Chile",
-        "line": "10Av. Manuel Antonio Matta con Avenida Las Torres",
-        "previous": null,
+        "station": "Riquelme",
+        "address": "Avenida Los Morros con Calle Riquelme , Santiago de Chile",
+        "line": "L2",
+        "previous": {
+            "distance_in_meters": 970,
+            "station": "La Cisterna"
+        },
         "next": {
+            "distance_in_meters": 1620,
+            "station": "Observatorio"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Observatorio",
+        "address": "Avenida Los Morros con Av. Observatorio , Santiago de Chile",
+        "line": "L2",
+        "previous": {
+            "distance_in_meters": 1620,
+            "station": "Riquelme"
+        },
+        "next": {
+            "distance_in_meters": 1260,
+            "station": "Lo Mart\u00ednez"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Lo Mart\u00ednez",
+        "address": "Avenida Los Morros con Av. Lo Mart\u00ednez , Santiago de Chile",
+        "line": "L2",
+        "previous": {
+            "distance_in_meters": 1260,
+            "station": "Observatorio"
+        },
+        "next": {
+            "distance_in_meters": 1390,
+            "station": "Hospital El Pino"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Hospital El Pino",
+        "address": "Avenida Los Morros con Av. Lo Blanco , Santiago de Chile",
+        "line": "L2",
+        "previous": {
+            "distance_in_meters": 1390,
+            "station": "Lo Mart\u00ednez"
+        },
+        "next": null,
+        "transfer_to": null
+    },
+    {
+        "station": "Plaza de Quilicura",
+        "address": "Av. Manuel Antonio Matta con Av. Libertador Bernardo O\u00b4Higgins0 m , Santiago de Chile",
+        "line": "1000 m",
+        "previous": null,
+        "next": null,
+        "transfer_to": null
+    },
+    {
+        "station": "Lo Cruzat",
+        "address": "Av. Manuel Antonio Matta con Avenida Las Torres , Santiago de Chile",
+        "line": "L3",
+        "previous": {
             "distance_in_meters": 1000,
             "station": "Plaza de Quilicura"
         },
-        "transfer_to": "L3"
+        "next": {
+            "distance_in_meters": 1530,
+            "station": "EFE Quilicura"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "EFE Quilicura",
+        "address": "Av. Manuel Antonio Matta con Avenida Eduardo Frei Montalva , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1530,
+            "station": "Lo Cruzat"
+        },
+        "next": {
+            "distance_in_meters": 1240,
+            "station": "Los Libertadores"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Los Libertadores",
+        "address": "Am\u00e9rico Vespucio con Gral. San Mart\u00edn , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1240,
+            "station": "EFE Quilicura"
+        },
+        "next": {
+            "distance_in_meters": 1110,
+            "station": "Cardenal Caro"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Cardenal Caro",
+        "address": "Independencia con Cardenal J. M. Caro , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1110,
+            "station": "Los Libertadores"
+        },
+        "next": {
+            "distance_in_meters": 1600,
+            "station": "Vivaceta"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Vivaceta",
+        "address": "Independencia con Camino Vecinal , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1600,
+            "station": "Cardenal Caro"
+        },
+        "next": {
+            "distance_in_meters": 1560,
+            "station": "Conchal\u00ed"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Conchal\u00ed",
+        "address": "Independencia con Dorsal , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1560,
+            "station": "Vivaceta"
+        },
+        "next": {
+            "distance_in_meters": 1310,
+            "station": "Plaza Chacabuco"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Plaza Chacabuco",
+        "address": "Independencia con Hip\u00f3dromo Chile , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1310,
+            "station": "Conchal\u00ed"
+        },
+        "next": {
+            "distance_in_meters": 1240,
+            "station": "Hospitales"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Hospitales",
+        "address": "Independencia con Bezanilla , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1240,
+            "station": "Plaza Chacabuco"
+        },
+        "next": {
+            "distance_in_meters": 1670,
+            "station": "Puente Cal y Canto"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Puente Cal y Canto",
+        "address": "Bandera con General Mackenna , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1670,
+            "station": "Hospitales"
+        },
+        "next": {
+            "distance_in_meters": 570,
+            "station": "Plaza de Armas"
+        },
+        "transfer_to": "L2"
+    },
+    {
+        "station": "Plaza de Armas",
+        "address": "Bandera con Catedral , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 570,
+            "station": "Puente Cal y Canto"
+        },
+        "next": {
+            "distance_in_meters": 730,
+            "station": "Universidad de Chile"
+        },
+        "transfer_to": "L5"
+    },
+    {
+        "station": "Universidad de Chile",
+        "address": "Bandera con Alameda , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 730,
+            "station": "Plaza de Armas"
+        },
+        "next": {
+            "distance_in_meters": 840,
+            "station": "Parque Almagro"
+        },
+        "transfer_to": "L1"
+    },
+    {
+        "station": "Parque Almagro",
+        "address": "San Diego con Santa Isabel , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 840,
+            "station": "Universidad de Chile"
+        },
+        "next": {
+            "distance_in_meters": 1430,
+            "station": "Matta"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Matta",
+        "address": "M. A. Matta con Santa Rosa , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1430,
+            "station": "Parque Almagro"
+        },
+        "next": {
+            "distance_in_meters": 1410,
+            "station": "Irarr\u00e1zaval"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Irarr\u00e1zaval",
+        "address": "Irarr\u00e1zaval con Gral. Bustamante , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1410,
+            "station": "Matta"
+        },
+        "next": {
+            "distance_in_meters": 1350,
+            "station": "Monse\u00f1or Eyzaguirre"
+        },
+        "transfer_to": "L5"
+    },
+    {
+        "station": "Monse\u00f1or Eyzaguirre",
+        "address": "Irarr\u00e1zaval con Monse\u00f1or Eyzaguirre , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1350,
+            "station": "Irarr\u00e1zaval"
+        },
+        "next": {
+            "distance_in_meters": 780,
+            "station": "\u00d1u\u00f1oa"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "\u00d1u\u00f1oa",
+        "address": "Irarr\u00e1zaval con Pedro de Valdivia , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 780,
+            "station": "Monse\u00f1or Eyzaguirre"
+        },
+        "next": {
+            "distance_in_meters": 750,
+            "station": "Chile Espa\u00f1a"
+        },
+        "transfer_to": "L6"
+    },
+    {
+        "station": "Chile Espa\u00f1a",
+        "address": "Irarr\u00e1zaval con Jos\u00e9 Pedro Alessandri , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 750,
+            "station": "\u00d1u\u00f1oa"
+        },
+        "next": {
+            "distance_in_meters": 1540,
+            "station": "Villa Frei"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Villa Frei",
+        "address": "Irarr\u00e1zaval con Ram\u00f3n Cruz , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1540,
+            "station": "Chile Espa\u00f1a"
+        },
+        "next": {
+            "distance_in_meters": 900,
+            "station": "Plaza Ega\u00f1a"
+        },
+        "transfer_to": null
+    },
+    {
+        "station": "Plaza Ega\u00f1a",
+        "address": "Irarr\u00e1zaval con Ossa , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 900,
+            "station": "Villa Frei"
+        },
+        "next": {
+            "distance_in_meters": 1320,
+            "station": "F. Castillo Velasco"
+        },
+        "transfer_to": "L4"
+    },
+    {
+        "station": "Fernando Castillo Velasco",
+        "address": "Alcalde Fernando Castillo Velasco con Loreley , Santiago de Chile",
+        "line": "L3",
+        "previous": {
+            "distance_in_meters": 1320,
+            "station": "Plaza Ega\u00f1a"
+        },
+        "next": null,
+        "transfer_to": null
     },
     {
         "station": "Tobalaba",
@@ -693,7 +1020,7 @@
         "line": "L4",
         "previous": null,
         "next": {
-            "distance_in_meters": 1320,
+            "distance_in_meters": 1310,
             "station": "Crist\u00f3bal Col\u00f3n"
         },
         "transfer_to": "L1"
@@ -703,11 +1030,11 @@
         "address": "Tobalaba con Crist\u00f3bal Col\u00f3n , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1320,
+            "distance_in_meters": 1310,
             "station": "Tobalaba"
         },
         "next": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 770,
             "station": "Francisco Bilbao"
         },
         "transfer_to": null
@@ -717,11 +1044,11 @@
         "address": "Tobalaba con Francisco Bilbao , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 770,
             "station": "Crist\u00f3bal Col\u00f3n"
         },
         "next": {
-            "distance_in_meters": 1380,
+            "distance_in_meters": 1420,
             "station": "Pr\u00edncipe de Gales"
         },
         "transfer_to": null
@@ -731,7 +1058,7 @@
         "address": "Ossa con Pr\u00edncipe de Gales , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1380,
+            "distance_in_meters": 1420,
             "station": "Francisco Bilbao"
         },
         "next": {
@@ -742,14 +1069,14 @@
     },
     {
         "station": "Sim\u00f3n Bol\u00edvar",
-        "address": "Ossa con Eche\u00f1ique7368 , Santiago de Chile",
+        "address": "Ossa con Eche\u00f1ique , Santiago de Chile",
         "line": "L4",
         "previous": {
             "distance_in_meters": 760,
             "station": "Pr\u00edncipe de Gales"
         },
         "next": {
-            "distance_in_meters": 840,
+            "distance_in_meters": 810,
             "station": "Plaza Ega\u00f1a"
         },
         "transfer_to": null
@@ -759,25 +1086,25 @@
         "address": "Ossa con Alcalde Fernando Castillo Velasco , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 840,
+            "distance_in_meters": 810,
             "station": "Sim\u00f3n Bol\u00edvar"
         },
         "next": {
-            "distance_in_meters": 1030,
+            "distance_in_meters": 1000,
             "station": "Los Orientales"
         },
         "transfer_to": "L3"
     },
     {
         "station": "Los Orientales",
-        "address": "Am\u00e9rico Vespucio con Oriental6273 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Oriental , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1030,
+            "distance_in_meters": 1000,
             "station": "Plaza Ega\u00f1a"
         },
         "next": {
-            "distance_in_meters": 810,
+            "distance_in_meters": 830,
             "station": "Grecia"
         },
         "transfer_to": null
@@ -787,25 +1114,25 @@
         "address": "Am\u00e9rico Vespucio con Grecia , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 810,
+            "distance_in_meters": 830,
             "station": "Los Orientales"
         },
         "next": {
-            "distance_in_meters": 1170,
+            "distance_in_meters": 1210,
             "station": "Los Presidentes"
         },
         "transfer_to": null
     },
     {
         "station": "Los Presidentes",
-        "address": "Am\u00e9rico Vespucio con Los Presidentes8616 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Los Presidentes , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1170,
+            "distance_in_meters": 1210,
             "station": "Grecia"
         },
         "next": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 900,
             "station": "Quil\u00edn"
         },
         "transfer_to": null
@@ -815,25 +1142,25 @@
         "address": "Am\u00e9rico Vespucio con Quil\u00edn , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 900,
             "station": "Los Presidentes"
         },
         "next": {
-            "distance_in_meters": 1350,
+            "distance_in_meters": 1370,
             "station": "Las Torres"
         },
         "transfer_to": null
     },
     {
         "station": "Las Torres",
-        "address": "Am\u00e9rico Vespucio con Las Torres8528 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Las Torres , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1350,
+            "distance_in_meters": 1370,
             "station": "Quil\u00edn"
         },
         "next": {
-            "distance_in_meters": 1210,
+            "distance_in_meters": 1190,
             "station": "Macul"
         },
         "transfer_to": null
@@ -843,11 +1170,11 @@
         "address": "Am\u00e9rico Vespucio con Macul , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1210,
+            "distance_in_meters": 1190,
             "station": "Las Torres"
         },
         "next": {
-            "distance_in_meters": 1320,
+            "distance_in_meters": 1300,
             "station": "Vicu\u00f1a Mackenna"
         },
         "transfer_to": null
@@ -857,11 +1184,11 @@
         "address": "Am\u00e9rico Vespucio con Seraf\u00edn Zamora , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1320,
+            "distance_in_meters": 1300,
             "station": "Macul"
         },
         "next": {
-            "distance_in_meters": 740,
+            "distance_in_meters": 760,
             "station": "Vicente Vald\u00e9s"
         },
         "transfer_to": "L4A"
@@ -871,21 +1198,21 @@
         "address": "Vicu\u00f1a Mackenna con Vicente Vald\u00e9s , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 740,
+            "distance_in_meters": 760,
             "station": "Vicu\u00f1a Mackenna"
         },
         "next": {
-            "distance_in_meters": 1220,
+            "distance_in_meters": 1200,
             "station": "Rojas Magallanes"
         },
         "transfer_to": "L5"
     },
     {
         "station": "Rojas Magallanes",
-        "address": "Vicu\u00f1a Mackenna con Rojas Magallanes6197 , Santiago de Chile",
+        "address": "Vicu\u00f1a Mackenna con Rojas Magallanes , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1220,
+            "distance_in_meters": 1200,
             "station": "Vicente Vald\u00e9s"
         },
         "next": {
@@ -896,14 +1223,14 @@
     },
     {
         "station": "Trinidad",
-        "address": "Vicu\u00f1a Mackenna con Trinidad8477 , Santiago de Chile",
+        "address": "Vicu\u00f1a Mackenna con Trinidad , Santiago de Chile",
         "line": "L4",
         "previous": {
             "distance_in_meters": 1140,
             "station": "Rojas Magallanes"
         },
         "next": {
-            "distance_in_meters": 720,
+            "distance_in_meters": 840,
             "station": "San Jos\u00e9 de la Estrella"
         },
         "transfer_to": null
@@ -913,11 +1240,11 @@
         "address": "Vicu\u00f1a Mackenna con San Jos\u00e9 de la Estrella , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 720,
+            "distance_in_meters": 840,
             "station": "Trinidad"
         },
         "next": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 890,
             "station": "Los Quillayes"
         },
         "transfer_to": null
@@ -927,11 +1254,11 @@
         "address": "Vicu\u00f1a Mackenna con Mar\u00eda Elena , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 890,
             "station": "San Jos\u00e9 de la Estrella"
         },
         "next": {
-            "distance_in_meters": 900,
+            "distance_in_meters": 930,
             "station": "Elisa Correa"
         },
         "transfer_to": null
@@ -941,11 +1268,11 @@
         "address": "Vicu\u00f1a Mackenna con Elisa Correa , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 900,
+            "distance_in_meters": 930,
             "station": "Los Quillayes"
         },
         "next": {
-            "distance_in_meters": 850,
+            "distance_in_meters": 790,
             "station": "Hospital S\u00f3tero del R\u00edo"
         },
         "transfer_to": null
@@ -955,11 +1282,11 @@
         "address": "Concha y Toro con Gabriela Oriente , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 850,
+            "distance_in_meters": 790,
             "station": "Elisa Correa"
         },
         "next": {
-            "distance_in_meters": 1430,
+            "distance_in_meters": 1470,
             "station": "Protectora de la Infancia"
         },
         "transfer_to": null
@@ -969,11 +1296,11 @@
         "address": "Concha y Toro con \u00c1ngel Pimentel , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1430,
+            "distance_in_meters": 1470,
             "station": "Hospital S\u00f3tero del R\u00edo"
         },
         "next": {
-            "distance_in_meters": 1330,
+            "distance_in_meters": 1300,
             "station": "Las Mercedes"
         },
         "transfer_to": null
@@ -983,11 +1310,11 @@
         "address": "Concha y Toro con Independencia , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 1330,
+            "distance_in_meters": 1300,
             "station": "Protectora de la Infancia"
         },
         "next": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 750,
             "station": "Plaza de Puente Alto"
         },
         "transfer_to": null
@@ -997,7 +1324,7 @@
         "address": "Concha y Toro con Tocornal , Santiago de Chile",
         "line": "L4",
         "previous": {
-            "distance_in_meters": 860,
+            "distance_in_meters": 750,
             "station": "Las Mercedes"
         },
         "next": null,
@@ -1009,17 +1336,17 @@
         "line": "L4A",
         "previous": null,
         "next": {
-            "distance_in_meters": 2030,
+            "distance_in_meters": 2000,
             "station": "San Ram\u00f3n"
         },
         "transfer_to": "L2"
     },
     {
         "station": "San Ram\u00f3n",
-        "address": "Am\u00e9rico Vespucio con Carlos D\u00e1vila7138 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Carlos D\u00e1vila , Santiago de Chile",
         "line": "L4A",
         "previous": {
-            "distance_in_meters": 2030,
+            "distance_in_meters": 2000,
             "station": "La Cisterna"
         },
         "next": {
@@ -1037,17 +1364,17 @@
             "station": "San Ram\u00f3n"
         },
         "next": {
-            "distance_in_meters": 1730,
+            "distance_in_meters": 1710,
             "station": "La Granja"
         },
         "transfer_to": null
     },
     {
         "station": "La Granja",
-        "address": "Am\u00e9rico Vespucio con Coronel7348 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Coronel , Santiago de Chile",
         "line": "L4A",
         "previous": {
-            "distance_in_meters": 1730,
+            "distance_in_meters": 1710,
             "station": "Santa Rosa"
         },
         "next": {
@@ -1058,14 +1385,14 @@
     },
     {
         "station": "Santa Julia",
-        "address": "Am\u00e9rico Vespucio con Santa Julia4836 , Santiago de Chile",
+        "address": "Am\u00e9rico Vespucio con Santa Julia , Santiago de Chile",
         "line": "L4A",
         "previous": {
             "distance_in_meters": 1570,
             "station": "La Granja"
         },
         "next": {
-            "distance_in_meters": 1550,
+            "distance_in_meters": 1640,
             "station": "Vicu\u00f1a Mackenna"
         },
         "transfer_to": null
@@ -1075,7 +1402,7 @@
         "address": "Am\u00e9rico Vespucio con Seraf\u00edn Zamora , Santiago de Chile",
         "line": "L4A",
         "previous": {
-            "distance_in_meters": 1550,
+            "distance_in_meters": 1640,
             "station": "Santa Julia"
         },
         "next": null,
@@ -1094,38 +1421,38 @@
     },
     {
         "station": "Santiago Bueras",
-        "address": "Los Pajaritos con Rafael Riesco8788 , Santiago de Chile",
+        "address": "Los Pajaritos con Rafael Riesco , Santiago de Chile",
         "line": "L5",
         "previous": {
             "distance_in_meters": 1530,
             "station": "Plaza de Maip\u00fa"
         },
         "next": {
-            "distance_in_meters": 920,
+            "distance_in_meters": 810,
             "station": "Del Sol"
         },
         "transfer_to": null
     },
     {
         "station": "Del Sol",
-        "address": "Los Pajaritos con Autopista del Sol8807 , Santiago de Chile",
+        "address": "Los Pajaritos con Autopista del Sol , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 920,
+            "distance_in_meters": 810,
             "station": "Santiago Bueras"
         },
         "next": {
-            "distance_in_meters": 1120,
+            "distance_in_meters": 1050,
             "station": "Monte Tabor"
         },
         "transfer_to": null
     },
     {
         "station": "Monte Tabor",
-        "address": "Los Pajaritos con Monte Tabor6362 , Santiago de Chile",
+        "address": "Los Pajaritos con Monte Tabor , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1120,
+            "distance_in_meters": 1050,
             "station": "Del Sol"
         },
         "next": {
@@ -1143,7 +1470,7 @@
             "station": "Monte Tabor"
         },
         "next": {
-            "distance_in_meters": 1440,
+            "distance_in_meters": 1600,
             "station": "Laguna Sur"
         },
         "transfer_to": null
@@ -1153,11 +1480,11 @@
         "address": "Teniente Cruz con Laguna Sur , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1440,
+            "distance_in_meters": 1600,
             "station": "Las Parcelas"
         },
         "next": {
-            "distance_in_meters": 1140,
+            "distance_in_meters": 1220,
             "station": "Barrancas"
         },
         "transfer_to": null
@@ -1167,11 +1494,11 @@
         "address": "Teniente Cruz con General Bonilla , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1140,
+            "distance_in_meters": 1220,
             "station": "Laguna Sur"
         },
         "next": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 960,
             "station": "Pudahuel"
         },
         "transfer_to": null
@@ -1181,11 +1508,11 @@
         "address": "San Pablo con Teniente Cruz , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 990,
+            "distance_in_meters": 960,
             "station": "Barrancas"
         },
         "next": {
-            "distance_in_meters": 1610,
+            "distance_in_meters": 1580,
             "station": "San Pablo"
         },
         "transfer_to": null
@@ -1195,39 +1522,39 @@
         "address": "San Pablo con Neptuno , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1610,
+            "distance_in_meters": 1580,
             "station": "Pudahuel"
         },
         "next": {
-            "distance_in_meters": 700,
+            "distance_in_meters": 570,
             "station": "Lo Prado"
         },
         "transfer_to": "L1"
     },
     {
         "station": "Lo Prado",
-        "address": "San Pablo con Santa Marta3826 , Santiago de Chile",
+        "address": "San Pablo con Santa Marta , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 700,
+            "distance_in_meters": 570,
             "station": "San Pablo"
         },
         "next": {
-            "distance_in_meters": 820,
+            "distance_in_meters": 860,
             "station": "Blanqueado"
         },
         "transfer_to": null
     },
     {
         "station": "Blanqueado",
-        "address": "San Pablo con Las Rejas8761 , Santiago de Chile",
+        "address": "San Pablo con Las Rejas , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 820,
+            "distance_in_meters": 860,
             "station": "Lo Prado"
         },
         "next": {
-            "distance_in_meters": 1580,
+            "distance_in_meters": 1520,
             "station": "Gruta de Lourdes"
         },
         "transfer_to": null
@@ -1237,7 +1564,7 @@
         "address": "San Pablo con Gral. Vel\u00e1squez , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1580,
+            "distance_in_meters": 1520,
             "station": "Blanqueado"
         },
         "next": {
@@ -1255,7 +1582,7 @@
             "station": "Gruta de Lourdes"
         },
         "next": {
-            "distance_in_meters": 1110,
+            "distance_in_meters": 1090,
             "station": "Cumming"
         },
         "transfer_to": null
@@ -1265,11 +1592,11 @@
         "address": "Catedral con Ricardo Cumming , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1110,
+            "distance_in_meters": 1090,
             "station": "Quinta Normal"
         },
         "next": {
-            "distance_in_meters": 650,
+            "distance_in_meters": 820,
             "station": "Santa Ana"
         },
         "transfer_to": null
@@ -1279,7 +1606,7 @@
         "address": "Catedral con Autopista Central , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 650,
+            "distance_in_meters": 820,
             "station": "Cumming"
         },
         "next": {
@@ -1297,7 +1624,7 @@
             "station": "Santa Ana"
         },
         "next": {
-            "distance_in_meters": 590,
+            "distance_in_meters": 640,
             "station": "Bellas Artes"
         },
         "transfer_to": "L3"
@@ -1307,7 +1634,7 @@
         "address": "Monjitas con Mosqueto , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 590,
+            "distance_in_meters": 640,
             "station": "Plaza de Armas"
         },
         "next": {
@@ -1325,7 +1652,7 @@
             "station": "Bellas Artes"
         },
         "next": {
-            "distance_in_meters": 640,
+            "distance_in_meters": 610,
             "station": "Parque Bustamante"
         },
         "transfer_to": "L1"
@@ -1335,11 +1662,11 @@
         "address": "General Bustamante con Francisco Bilbao , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 640,
+            "distance_in_meters": 610,
             "station": "Baquedano"
         },
         "next": {
-            "distance_in_meters": 490,
+            "distance_in_meters": 500,
             "station": "Santa Isabel"
         },
         "transfer_to": null
@@ -1349,11 +1676,11 @@
         "address": "General Bustamante con Santa Isabel , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 490,
+            "distance_in_meters": 500,
             "station": "Parque Bustamante"
         },
         "next": {
-            "distance_in_meters": 630,
+            "distance_in_meters": 720,
             "station": "Irarr\u00e1zaval"
         },
         "transfer_to": null
@@ -1363,11 +1690,11 @@
         "address": "General Bustamante con Irarr\u00e1zaval , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 630,
+            "distance_in_meters": 720,
             "station": "Santa Isabel"
         },
         "next": {
-            "distance_in_meters": 1700,
+            "distance_in_meters": 1650,
             "station": "\u00d1uble"
         },
         "transfer_to": "L3"
@@ -1377,21 +1704,21 @@
         "address": "San Eugenio con \u00d1uble , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1700,
+            "distance_in_meters": 1650,
             "station": "Irarr\u00e1zaval"
         },
         "next": {
-            "distance_in_meters": 1160,
+            "distance_in_meters": 1240,
             "station": "Rodrigo de Araya"
         },
         "transfer_to": "L6"
     },
     {
         "station": "Rodrigo de Araya",
-        "address": "Vicu\u00f1a Mackenna con Santa Elena9504 , Santiago de Chile",
+        "address": "Vicu\u00f1a Mackenna con Santa Elena , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1160,
+            "distance_in_meters": 1240,
             "station": "\u00d1uble"
         },
         "next": {
@@ -1402,14 +1729,14 @@
     },
     {
         "station": "Carlos Valdovinos",
-        "address": "Vicu\u00f1a Mackenna con Quil\u00edn8487 , Santiago de Chile",
+        "address": "Vicu\u00f1a Mackenna con Quil\u00edn , Santiago de Chile",
         "line": "L5",
         "previous": {
             "distance_in_meters": 1060,
             "station": "Rodrigo de Araya"
         },
         "next": {
-            "distance_in_meters": 620,
+            "distance_in_meters": 540,
             "station": "Camino Agr\u00edcola"
         },
         "transfer_to": null
@@ -1419,11 +1746,11 @@
         "address": "Vicu\u00f1a Mackenna con Escuela Agr\u00edcola , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 620,
+            "distance_in_meters": 540,
             "station": "Carlos Valdovinos"
         },
         "next": {
-            "distance_in_meters": 810,
+            "distance_in_meters": 790,
             "station": "San Joaqu\u00edn"
         },
         "transfer_to": null
@@ -1433,11 +1760,11 @@
         "address": "Vicu\u00f1a Mackenna con Raquel , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 810,
+            "distance_in_meters": 790,
             "station": "Camino Agr\u00edcola"
         },
         "next": {
-            "distance_in_meters": 1070,
+            "distance_in_meters": 1090,
             "station": "Pedrero"
         },
         "transfer_to": null
@@ -1447,11 +1774,11 @@
         "address": "Vicu\u00f1a Mackenna con Departamental , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 1070,
+            "distance_in_meters": 1090,
             "station": "San Joaqu\u00edn"
         },
         "next": {
-            "distance_in_meters": 830,
+            "distance_in_meters": 850,
             "station": "Mirador"
         },
         "transfer_to": null
@@ -1461,11 +1788,11 @@
         "address": "Vicu\u00f1a Mackenna con Mirador Azul , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 430,
+            "distance_in_meters": 850,
             "station": "Pedrero"
         },
         "next": {
-            "distance_in_meters": 880,
+            "distance_in_meters": 920,
             "station": "Bellavista de La Florida"
         },
         "transfer_to": null
@@ -1475,11 +1802,11 @@
         "address": "Vicu\u00f1a Mackenna con Cabildo , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 880,
+            "distance_in_meters": 920,
             "station": "Mirador"
         },
         "next": {
-            "distance_in_meters": 800,
+            "distance_in_meters": 770,
             "station": "Vicente Vald\u00e9s"
         },
         "transfer_to": null
@@ -1489,7 +1816,7 @@
         "address": "Vicu\u00f1a Mackenna con Vicente Vald\u00e9s , Santiago de Chile",
         "line": "L5",
         "previous": {
-            "distance_in_meters": 800,
+            "distance_in_meters": 770,
             "station": "Bellavista de La Florida"
         },
         "next": null,
@@ -1501,7 +1828,7 @@
         "line": "L6",
         "previous": null,
         "next": {
-            "distance_in_meters": 1660,
+            "distance_in_meters": 1570,
             "station": "Lo Valledor"
         },
         "transfer_to": null
@@ -1511,7 +1838,7 @@
         "address": "Av. Carlos Valdovinos con Maip\u00fa , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 1660,
+            "distance_in_meters": 1570,
             "station": "Cerrillos"
         },
         "next": {
@@ -1529,7 +1856,7 @@
             "station": "Lo Valledor"
         },
         "next": {
-            "distance_in_meters": 1620,
+            "distance_in_meters": 1590,
             "station": "Franklin"
         },
         "transfer_to": null
@@ -1539,11 +1866,11 @@
         "address": "Isabel Riquelme con Gran Avenida , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 1620,
+            "distance_in_meters": 1590,
             "station": "Presidente Pedro Aguirre Cerda"
         },
         "next": {
-            "distance_in_meters": 610,
+            "distance_in_meters": 640,
             "station": "B\u00edo B\u00edo"
         },
         "transfer_to": "L2"
@@ -1553,11 +1880,11 @@
         "address": "Santa Rosa con Pintor Cicarelli , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 610,
+            "distance_in_meters": 640,
             "station": "Franklin"
         },
         "next": {
-            "distance_in_meters": 2060,
+            "distance_in_meters": 2120,
             "station": "\u00d1uble"
         },
         "transfer_to": null
@@ -1567,11 +1894,11 @@
         "address": "Carlos Dittborn con Vicu\u00f1a Mackenna , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 2060,
+            "distance_in_meters": 2120,
             "station": "B\u00edo B\u00edo"
         },
         "next": {
-            "distance_in_meters": 2000,
+            "distance_in_meters": 1960,
             "station": "Estadio Nacional"
         },
         "transfer_to": "L5"
@@ -1581,11 +1908,11 @@
         "address": "Pedro de Valdivia con Grecia , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 2000,
+            "distance_in_meters": 1960,
             "station": "\u00d1uble"
         },
         "next": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 930,
             "station": "\u00d1u\u00f1oa"
         },
         "transfer_to": null
@@ -1595,11 +1922,11 @@
         "address": "Pedro de Valdivia con Irarr\u00e1zaval , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 910,
+            "distance_in_meters": 930,
             "station": "Estadio Nacional"
         },
         "next": {
-            "distance_in_meters": 1750,
+            "distance_in_meters": 1820,
             "station": "In\u00e9s de Su\u00e1rez"
         },
         "transfer_to": "L3"
@@ -1609,11 +1936,11 @@
         "address": "Pedro de Valdivia con Francisco Bilbao , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 1750,
+            "distance_in_meters": 1820,
             "station": "\u00d1u\u00f1oa"
         },
         "next": {
-            "distance_in_meters": 2150,
+            "distance_in_meters": 2250,
             "station": "Los Leones"
         },
         "transfer_to": null
@@ -1623,7 +1950,7 @@
         "address": "Providencia con Suecia , Santiago de Chile",
         "line": "L6",
         "previous": {
-            "distance_in_meters": 2150,
+            "distance_in_meters": 2250,
             "station": "In\u00e9s de Su\u00e1rez"
         },
         "next": null,
